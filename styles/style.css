@@ -27,6 +27,7 @@
 .items{
     display: flex;
     gap: 20px;
+    justify-content: space-around;
 }
 .item{
     padding: 30px;
@@ -42,4 +43,45 @@
     padding: 10px;
     background-color:lightgray;
 
+}
+/* amount styles */
+.amount{
+    border: 2px solid  rgb(110, 128, 110);
+    background-color: aqua;
+    padding: 20px;
+    font-size: 24px;
+    width: 120px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+.amounts{
+    display: flex;
+    justify-content: space-evenly;
+}
+/* title */
+ .title{
+
+   font-weight: 800;
+   margin: 10px 500px;
+}
+/* taka style */
+ .taka{
+    margin: 10px 500px;
+    width: max-content;
+}
+/* button style */
+.btn1{
+
+    background-color: lightgreen;
+    border-radius: 5px;
+    margin: 5px 550px;
+   
+}
+/* description style */
+.description{
+    margin: 10px 100px;
+}
+.recent new {
+    display: flex;
 }
