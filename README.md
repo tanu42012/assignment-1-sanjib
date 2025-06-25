@@ -4,7 +4,7 @@
 
 ## 🔗 Live Site
 
-🌐 [Visit Bangladesh 2.0](https://your-live-site-url.com)
+🌐 [Visit Bangladesh 2.0]( https://tanu42012.github.io/assignment-1-sanjib/)
 
 > _Replace this URL with your actual deployed link._
 
